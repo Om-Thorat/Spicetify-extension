@@ -1,0 +1,13 @@
+[
+    {
+        "name": "PlaybackApi",
+        "description": "Extension to expose a playback api through websocket since spotify's is paywalled",
+        "preview": "term.png",
+        "main": "dist/playbackapi.js",
+        "readme": "Readme.md",
+        "authors":[
+            { "name": "Om Thorat", "url":"https://github.com/Om-Thorat" }
+        ],
+        "tags" : ["api"]
+    }
+]

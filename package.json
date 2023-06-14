@@ -1,0 +1,21 @@
+{
+  "name": "playbackapi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "spicetify-creator",
+    "build-local": "spicetify-creator --out=dist --minify",
+    "watch": "spicetify-creator --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.8",
+    "@types/react-dom": "^18.2.4",
+    "@types/ws": "^8.5.4",
+    "spicetify-creator": "^1.0.13"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.6.2",
+    "ws": "^8.13.0"
+  }
+}
