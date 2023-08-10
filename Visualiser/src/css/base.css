@@ -1,0 +1,23 @@
+.vis_con{
+    width: 100cqw;
+    height: 100cqh;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: black;
+}
+
+.bar_container{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 3px;
+    width: 100%;
+    height: 100%;
+}
+
+.bar{
+    min-width: 40px;
+    min-height: 0px;
+    background: #9fba75;
+}
