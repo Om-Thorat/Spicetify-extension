@@ -1,16 +1,12 @@
-# Spicetify Creator
+# Visualiser 🎶
 
-Spicetify Creator is a tool to compile modern Typescript/Javascript code to Spicetify extensions and custom apps.
+A vaguely related to your song Bar visualiser, works by using the pitch in segements from the Audiodata provided by spotify.
 
-## Features
-- Typescript and React syntax
-- Import node packages
-- CSS/SCSS with PostCSS support
-- Extremely fast compile time with esbuild.
-- Plugins
+## To install
 
-## Docs
-Check out [Spicetify's docs](https://spicetify.app/docs/development/spicetify-creator/the-basics)!
+* Download the latest release.
+* Open the dir by using `Spicetify Config-dir`
+* Unzip the folder to CustomApps
+* Run `spicetify config custom_apps ncs-visualizer`
 
-## Made with Spicetify Creator
-- https://github.com/spicetify/spicetify-creator
+
