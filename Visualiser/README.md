@@ -7,6 +7,6 @@ A vaguely related to your song Bar visualiser, works by using the pitch in segem
 * Download the latest release.
 * Open the dir by using `Spicetify Config-dir`
 * Unzip the folder to CustomApps
-* Run `spicetify config custom_apps visualizer`
+* Run `spicetify config custom_apps visualiser`
 
 

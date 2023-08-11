@@ -114,6 +114,7 @@ out
 
 # Serverless directories
 .serverless/
+release/
 
 # FuseBox cache
 .fusebox/
